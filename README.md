@@ -28,3 +28,42 @@ python main.py
 - Проверка на наличие недостающих данных путём построения тепловой таблицы
 - Преобразование исходных данных
 - Постройка графиков
+
+
+# wine_data_visualisation
+Homework on "ML Applications in Cybersecurity" (HSE MIEM)
+
+## Getting Started
+
+- Clone the repository:
+```
+git clone git@github.com:monticola145/wine_data_visualisation.git
+```
+- Create and deploy a virtual environment
+```
+python -m venv venv && source venv/Scripts/activate
+```
+- Install the dependencies
+```
+pip install -r requirements.txt
+```
+- Run the application
+```
+python main.py
+```
+
+## Principle of operation
+
+The program performs the following functions:
+
+- Loading red wine data
+- Checking for missing data by building a heat table
+- Conversion of raw data
+- Drawing charts
+
+### Author:
+
+[Monticola]
+Git - https://github.com/monticola
+Email - ``jandiev2001@yandex.ru``
+
